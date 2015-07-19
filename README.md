@@ -1,1 +1,1 @@
-dealin complete template (HTML/CSS) website
+DEALIN - complete template (HTML/CSS) website
