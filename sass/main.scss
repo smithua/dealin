@@ -13,7 +13,7 @@ body {
 .header__wrap {
   width: 100%;
   height: 695px;
-  background: url(./img/bg-header.png) repeat-x;
+  background: url(/img/bg-header.png) repeat-x;
   padding-top: 45px;
 
   .header {
@@ -374,7 +374,7 @@ body {
                 left: -29px;
                 width: 21px;
                 height: 21px;
-                background: url(./img/img-gift.png) no-repeat;
+                background: url(/img/img-gift.png) no-repeat;
               }
             }
 
@@ -603,7 +603,7 @@ body {
         position: absolute;
         left: -47px;
         top: -1px;
-        background: url(./img/img-pin.png) no-repeat;
+        background: url(/img/img-pin.png) no-repeat;
         width: 38px;
         height: 53px;
       }
@@ -692,12 +692,12 @@ body {
 /* Footer
 -----------------------------------------------------------------------------*/
 .footer-top {
-  background: url(./img/bg-top-footer.png) repeat-x;
+  background: url(/img/bg-top-footer.png) repeat-x;
   height: 34px;
 }
 .footer__wrap {
   height: 280px;
-  background: url(./img/bg-footer.png) repeat-x;
+  background: url(/img/bg-footer.png) repeat-x;
   position: relative;
 
 
